@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Portamemory	</title>
-	<atom:link href="https://www.ninjoe365.com/staticwordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.ninjoe365.com/staticwordpress</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>pam production photobooth rental  saving your precocious moment</description>
 	<lastBuildDate>Fri, 28 Oct 2022 04:03:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
